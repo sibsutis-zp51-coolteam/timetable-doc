@@ -6,3 +6,5 @@
 
 Доступна: http://sibsutis.i.nsk.ru/doc
 
+Зеркало в формате markdown: [markdown](markdown/ApiIndex.md)
+
