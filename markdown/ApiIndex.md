@@ -9,6 +9,7 @@ API Index
     * [ControllerInterface](Controller-ControllerInterface.md)
     * [TestController](Controller-TestController.md)
     * [ControllerDefault](Controller-ControllerDefault.md)
+    * [StationTimetable](Controller-StationTimetable.md)
 * Json
     * [Parser](Json-Parser.md)
 
