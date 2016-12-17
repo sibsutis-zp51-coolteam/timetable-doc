@@ -19,9 +19,9 @@ Methods
 -------
 
 
-### Listing
+### listing
 
-    mixed Controller\Train::Listing()
+    mixed Controller\Train::listing()
 
 
 

@@ -19,9 +19,9 @@ Methods
 -------
 
 
-### StationTimetable
+### stationTimetable
 
-    array Controller\StationTimetable::StationTimetable(string $station, string $date)
+    array Controller\StationTimetable::stationTimetable(string $station, string $date)
 
 Класс парсит расписания поездов по станции
 
